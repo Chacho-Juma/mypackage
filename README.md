@@ -50,7 +50,7 @@ An argument:
 
 Returns:
 
-` {[8, 7, 3]`
+`[8, 7, 3]`
 
 ## How to contribute to the project
 
